@@ -1,0 +1,1 @@
+window.location.replace(window.location.href.concat("&format=original"));
